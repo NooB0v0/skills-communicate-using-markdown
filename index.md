@@ -17,3 +17,10 @@ y = 2
 z = x + y
 print(z)
 ```
+
+
+# A new Task List
+- [x] Create new GitHub Repo
+- [ ] Turn on GitHub Pages
+- [ ] Outline my own portfolio
+- [ ] Introduce myself
