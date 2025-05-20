@@ -6,4 +6,14 @@
 ### Chpt 3
 - The ending
 
+# A New Image
 ![Gif Of Eevee](https://archives.bulbagarden.net/media/upload/4/4c/0133Eevee.png)
+
+
+# A New Code
+``` python
+x = 1
+y = 2
+z = x + y
+print(z)
+```
